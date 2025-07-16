@@ -27,6 +27,16 @@ A responsive travel agency landing page built with HTML and advanced CSS. Inspir
 - **CSS3** (Grid, Flexbox, Animations)
 - **No JavaScript** – Pure frontend styling
 
+
+## 🧠 Learnings
+CSS Grid + Flexbox combo layouts
+
+BEM methodology
+
+Building responsive multi-section landing pages
+
+🙌 Made with 💙 by Tornike Niauri
+
 ---
 
 ## 💻 Installation
@@ -47,13 +57,3 @@ trillo-website-project/
 │   └── style.css  # All styles
 └── .gitattributes
 
----
-
-## 🧠 Learnings
-CSS Grid + Flexbox combo layouts
-
-BEM methodology
-
-Building responsive multi-section landing pages
-
-🙌 Made with 💙 by Tornike Niauri
