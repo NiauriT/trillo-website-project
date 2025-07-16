@@ -1,3 +1,5 @@
+🙌 Made with 💙 by Tornike Niauri
+
 # 🌍 Trillo Website Project 🏨
 
 A responsive travel agency landing page built with HTML and advanced CSS. Inspired by modern design trends and layout techniques. Great practice for mastering Flexbox, Grid, and responsive design principles.
@@ -35,7 +37,7 @@ BEM methodology
 
 Building responsive multi-section landing pages
 
-🙌 Made with 💙 by Tornike Niauri
+
 
 ---
 
