@@ -29,6 +29,19 @@ A responsive travel agency landing page built with HTML and advanced CSS. Inspir
 - **CSS3** (Grid, Flexbox, Animations)
 - **No JavaScript** – Pure frontend styling
 
+---
+
+## 🗂️ File Structure
+bash
+Copy
+Edit
+trillo-website-project/
+├── index.html     # Main landing page
+├── css/
+│   └── style.css  # All styles
+└── .gitattributes
+
+---
 
 ## 🧠 Learnings
 CSS Grid + Flexbox combo layouts
@@ -50,12 +63,4 @@ git clone https://github.com/NiauriT/trillo-website-project.git
 cd trillo-website-project
 
 
----
-
-## 🗂️ File Structure
-trillo-website-project/
-├── index.html     # Main landing page
-├── css/
-│   └── style.css  # All styles
-└── .gitattributes
 
