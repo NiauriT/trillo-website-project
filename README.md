@@ -37,13 +37,19 @@ Clone the repo and open `index.html` in your browser:
 git clone https://github.com/NiauriT/trillo-website-project.git
 cd trillo-website-project
 
-🗂️ File Structure
+
+---
+
+## 🗂️ File Structure
 trillo-website-project/
 ├── index.html     # Main landing page
 ├── css/
 │   └── style.css  # All styles
 └── .gitattributes
-🧠 Learnings
+
+---
+
+## 🧠 Learnings
 CSS Grid + Flexbox combo layouts
 
 BEM methodology
